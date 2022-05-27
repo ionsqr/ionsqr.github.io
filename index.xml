@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Ion Orion S</copyright>
-    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ionsqr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ionsqr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FairEmail announcement to Stop Developing</title>
+      <link>https://ionsqr.github.io/post/fairemail-announcement-to-stop-developing/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ionsqr.github.io/post/fairemail-announcement-to-stop-developing/</guid>
+      <description>Qadarallah, I&amp;rsquo;m really sorry to FairEmail, because they have stopped providing their services due to Google falsely flagged FairEmail as spyware without a reasonable opportunity to appeal, as stated on its website. The mail client has been irreplaceable on Android for me, come to an end. Though, you can still use their app without their service using an open standard.
+Article posts: https://faircode.eu/faq.html</description>
+    </item>
+    
+    <item>
+      <title>Get Rid of Public DNS (nsd4) is not running (port 53). on Mail-in-a-Box</title>
+      <link>https://ionsqr.github.io/post/get-rid-of-public-dns-nsd4-is-not-running/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ionsqr.github.io/post/get-rid-of-public-dns-nsd4-is-not-running/</guid>
+      <description>It&amp;rsquo;s really annoying to see this status checks on Mail-in-a-Box
+Solution:
+sudo sysctl -w net.ipv6.conf.all.disable_ipv6=0  sudo sysctl -w net.ipv6.conf.default.disable_ipv6=0  sudo service nsd start </description>
+    </item>
+    
+    <item>
+      <title>Hardening Firefox using Arkenfox user.js</title>
+      <link>https://ionsqr.github.io/post/hardening-firefox-using-arkenfox-user-js/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ionsqr.github.io/post/hardening-firefox-using-arkenfox-user-js/</guid>
+      <description>You can read the Arkenfox official wiki based on your threat model and create the user-overrides.js file / download or copy here user-overrides.js
+Download the official release from here or use git clone from https://github.com/arkenfox/user.js
+Locate your Mozilla Firefox profile, and open terminal
+Linux or MacOS: Copy the prefsCleaner.sh, updater.sh and user.js file from the extracted zip into your Firefox profile, as well as your user-overrides.js file.
+On your terminal inside your Firefox profile folder.</description>
+    </item>
+    
+    <item>
+      <title>Using DNF on Fedora Sliverblue</title>
+      <link>https://ionsqr.github.io/post/using-dnf-on-fedora-sliverblue/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ionsqr.github.io/post/using-dnf-on-fedora-sliverblue/</guid>
+      <description>Steps to use DNF command like a regular Fedora on Silverblue using aliases
+cat &amp;gt;&amp;gt; ~/.bashrc &amp;lt;&amp;lt; EOF alias sudo=&amp;#34;sudo &amp;#34; alias dnf=&amp;#34;bash -c &amp;#39;#skip_sudo&amp;#39;; toolbox -y create 2&amp;gt;/dev/null; toolbox run sudo dnf&amp;#34; EOF </description>
+    </item>
+    
+    <item>
+      <title>CTemplar is shutting down</title>
+      <link>https://ionsqr.github.io/post/ctemplar-is-shutting-down/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ionsqr.github.io/post/ctemplar-is-shutting-down/</guid>
+      <description>Been months after requesting a free account on CTemplar for my backup mail, the Icelandic email provider has officially been shutting down effectively on 26th May 2022.
+Article Posts: https://ctemplar.com/ctemplar-is-shutting-down/</description>
+    </item>
+    
     <item>
       <title>A Good Move from MacOS</title>
       <link>https://ionsqr.github.io/post/a-good-move-from-macos/</link>
@@ -19,42 +73,46 @@
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://ionsqr.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Free Up RAM on Debian or Ubuntu</title>
+      <link>https://ionsqr.github.io/post/free-up-ram-on-debian-ubuntu/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://ionsqr.github.io/post/free-up-ram-on-debian-ubuntu/</guid>
+      <description>free -h &amp;amp;&amp;amp; sudo sysctl -w vm.drop_caches=3 &amp;amp;&amp;amp; sudo sync &amp;amp;&amp;amp; echo 3 | sudo tee /proc/sys/vm/drop_caches &amp;amp;&amp;amp; free -h </description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://ionsqr.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Why Self-hosting</title>
+      <link>https://ionsqr.github.io/post/why-self-hosting/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
+      <guid>https://ionsqr.github.io/post/why-self-hosting/</guid>
+      <description>The concept in which we host our own applications, data, and more. Taking away the “unknown” factor in how our data is managed and stored, this provides those with the willingness to learn and the mind to do so to take control of our data without losing the functionality of services we otherwise use frequently. That makes us much aware about our own privacy.</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://ionsqr.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Writefreely with Docker Compose</title>
+      <link>https://ionsqr.github.io/post/writefreely-with-docker-compose/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://ionsqr.github.io/post/writefreely-with-docker-compose/</guid>
+      <description>Download the stable release as mentioned on Writefreely using wget command
+sudo wget https://github.com/writefreely/writefreely/releases/download/v0.13.1/writefreely_0.13.1_linux_amd64.tar.gz sudo tar -zxvf writefreely_0.13.1_linux_amd64.tar.gz Generate config.ini before generating keys
+cd writefreely sudo ./writefreely --config My current setup is, you can configure as you like
+ Server setup Production, behind reverse proxy Database setup SQLite  Generate keys
+ sudo ./writefreely --gen-keys Locate keys directory and make it a writeable file
+cd keys sudo chmod 777 *keys.file* Create a docker-compose.</description>
     </item>
     
     <item>
       <title>About</title>
       <link>https://ionsqr.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ionsqr.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.
+A dedicated personal note based on my journey, taken from my old posts from another host as well
+Contact: Signal: +1(234)332110 Mail: ion@ori.onl Matrix: ion:ori.onl</description>
     </item>
     
   </channel>

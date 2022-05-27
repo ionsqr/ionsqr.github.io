@@ -7,58 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Ion Orion S</copyright>
-    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ionsqr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ionsqr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>text</title>
-      <link>https://ionsqr.github.io/tags/text/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <title>News</title>
+      <link>https://ionsqr.github.io/tags/news/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/tags/text/</guid>
+      <guid>https://ionsqr.github.io/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>css</title>
-      <link>https://ionsqr.github.io/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Notes</title>
+      <link>https://ionsqr.github.io/tags/notes/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://ionsqr.github.io/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ionsqr.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://ionsqr.github.io/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ionsqr.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://ionsqr.github.io/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ionsqr.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://ionsqr.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ionsqr.github.io/tags/emoji/</guid>
+      <guid>https://ionsqr.github.io/tags/notes/</guid>
       <description></description>
     </item>
     

@@ -4,17 +4,17 @@
     <title>Notes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="طالب العلم" />
+    <meta name="description" content="" />
 
-    <meta property="og:title" content="About" />
-    <meta property="og:description" content="طالب العلم" />
+    <meta property="og:title" content="Free Up RAM on Debian or Ubuntu" />
+    <meta property="og:description" content="" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://ionsqr.github.io/about/" />
-    <meta itemprop="name" content="About">
-    <meta itemprop="description" content="طالب العلم">
+    <meta property="og:url" content="https://ionsqr.github.io/post/free-up-ram-on-debian-ubuntu/" />
+    <meta itemprop="name" content="Free Up RAM on Debian or Ubuntu">
+    <meta itemprop="description" content="">
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:title" content="About"/>
-    <meta name="twitter:description" content="طالب العلم"/>
+    <meta name="twitter:title" content="Free Up RAM on Debian or Ubuntu"/>
+    <meta name="twitter:description" content=""/>
 
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
@@ -27,10 +27,8 @@
     <div class="header header-frame">
         <div>
           
-            <h1 class="header__title">About</h1>
+            <h1 class="header__title">Free Up RAM on Debian or Ubuntu</h1>
           
-            
-                <div class="header__description">طالب العلم</div>
             
         </div>
         <nav class="header-nav">
@@ -88,6 +86,14 @@
             <ul class="mb-header-nav-list">
                 
                     
+                        
+                          <li class="mb-header-nav-list__item  cssonly ">
+                        <a class="mb-header-nav-list__link" href="https://ionsqr.github.io/tags/notes/"
+                                                            >Notes</a
+                                                        >
+                    </li>
+                        
+                    
                 
             </ul>
         </div>
@@ -125,13 +131,8 @@
     <div id="content">
 <article class="post">
   
-    <div class="post-content"><p>Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a></p>
-<p>A dedicated personal note based on my journey, taken from my old posts from another host as well</p>
-<h2 id="contact">Contact:</h2>
-<p>Signal: +1(234)332110
-Mail: <a href="mailto:ion@ori.onl">ion@ori.onl</a>
-Matrix: ion:ori.onl</p>
-</div>
+    <div class="post-content"><div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span>free <span style="color:#000;font-weight:bold">-</span>h <span style="color:#000;font-weight:bold">&amp;&amp;</span> sudo sysctl <span style="color:#000;font-weight:bold">-</span>w vm.drop_caches=<span style="color:#099">3</span> <span style="color:#000;font-weight:bold">&amp;&amp;</span> sudo sync <span style="color:#000;font-weight:bold">&amp;&amp;</span> echo <span style="color:#099">3</span> | sudo tee <span style="color:#000;font-weight:bold">/</span>proc<span style="color:#000;font-weight:bold">/</span>sys<span style="color:#000;font-weight:bold">/</span>vm<span style="color:#000;font-weight:bold">/</span>drop_caches <span style="color:#000;font-weight:bold">&amp;&amp;</span> free <span style="color:#000;font-weight:bold">-</span>h
+</span></span></code></pre></div></div>
   
 </article>
 <button class="floating-button">

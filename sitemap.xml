@@ -3,69 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ionsqr.github.io/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/post/fairemail-announcement-to-stop-developing/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/tags/news/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/post/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/tags/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/post/get-rid-of-public-dns-nsd4-is-not-running/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/post/hardening-firefox-using-arkenfox-user-js/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/tags/notes/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/post/using-dnf-on-fedora-sliverblue/</loc>
+    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/post/ctemplar-is-shutting-down/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ionsqr.github.io/post/a-good-move-from-macos/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ionsqr.github.io/post/</loc>
+    <loc>https://ionsqr.github.io/post/free-up-ram-on-debian-ubuntu/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ionsqr.github.io/tags/</loc>
+    <loc>https://ionsqr.github.io/post/why-self-hosting/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ionsqr.github.io/tags/text/</loc>
+    <loc>https://ionsqr.github.io/post/writefreely-with-docker-compose/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ionsqr.github.io/tags/a/</loc>
+  </url><url>
+    <loc>https://ionsqr.github.io/about/</loc>
   </url><url>
     <loc>https://ionsqr.github.io/tags/b/</loc>
   </url><url>
     <loc>https://ionsqr.github.io/tags/c/</loc>
   </url><url>
+    <loc>https://ionsqr.github.io/categories/</loc>
+  </url><url>
     <loc>https://ionsqr.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://ionsqr.github.io/series/</loc>
   </url><url>
     <loc>https://ionsqr.github.io/web/</loc>
   </url>

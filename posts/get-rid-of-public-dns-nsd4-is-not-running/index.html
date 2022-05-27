@@ -54,7 +54,7 @@
                     
                 
             </ul>
-            <button class="header-nav-list__nav-btn">navigation</button>
+            <button class="header-nav-list__nav-btn ">navigation</button>
         </nav>
         <button class="mb-header__menu-btn">
             <span class="mb-header__menu-btn-line"></span>
@@ -65,7 +65,7 @@
     <nav id="mobile-header-nav" class="mb-header-nav">
   
   
-  <a href="#" class="mb-header-nav__close-btn">
+  <button class="mb-header-nav__close-btn flex-center">
     <svg
             class="mb-header-nav__svg-icon"
             xmlns="http://www.w3.org/2000/svg"
@@ -78,8 +78,8 @@
                 />
             <path d="M0 0h24v24H0z" fill="none" />
         </svg>
-  </a>
-  
+    </button>
+    
     <div class="mb-header-nav__wrapper">
         <div class="mb-header-nav__container">
             <svg
@@ -96,7 +96,7 @@
                 
                     
                         
-                          <li class="mb-header-nav-list__item  cssonly ">
+                          <li class="mb-header-nav-list__item ">
                         <a class="mb-header-nav-list__link" href="https://ionsqr.github.io/tags/notes/"
                                                             >Notes</a
                                                         >
@@ -121,7 +121,7 @@
                 
                 
                     
-                      <li class="mb-header-nav-list__item  cssonly ">
+                      <li class="mb-header-nav-list__item ">
                             <a class="mb-header-nav-list__link" href="/about/">
                                 About
                             </a>
@@ -129,7 +129,7 @@
                     
                 
                     
-                      <li class="mb-header-nav-list__item  cssonly ">
+                      <li class="mb-header-nav-list__item ">
                             <a class="mb-header-nav-list__link" href="/posts/">
                                 Posts
                             </a>
@@ -148,8 +148,7 @@
     <div id="content">
 <article class="post">
   
-    <div class="post-content"><p>It&rsquo;s really annoying to see this status checks on Mail-in-a-Box</p>
-<p><img src="https://imail.iorn.org/cloud/index.php/s/geBENCedkQkRaGr/preview" alt=""></p>
+    <div class="post-content"><p>It&rsquo;s really annoying to see cross marks on status checks on Mail-in-a-Box</p>
 <p><em>Solution:</em></p>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span>sudo sysctl <span style="color:#000;font-weight:bold">-</span>w net.ipv6.conf.all.disable_ipv6=<span style="color:#099">0</span>
 </span></span><span style="display:flex;"><span>
@@ -192,6 +191,8 @@
     
     
       
+<script src="https://ionsqr.github.io/js/script.js"></script>
+
     
   </body>
 </html>

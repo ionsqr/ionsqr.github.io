@@ -10,20 +10,20 @@
     <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ionsqr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FairEmail announcement to Stop Developing</title>
-      <link>https://ionsqr.github.io/post/fairemail-announcement-to-stop-developing/</link>
+      <link>https://ionsqr.github.io/posts/fairemail-announcement-to-stop-developing/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/fairemail-announcement-to-stop-developing/</guid>
+      <guid>https://ionsqr.github.io/posts/fairemail-announcement-to-stop-developing/</guid>
       <description>Qadarallah, I&amp;rsquo;m really sorry to FairEmail, because they have stopped providing their services due to Google falsely flagged FairEmail as spyware without a reasonable opportunity to appeal, as stated on its website. The mail client has been irreplaceable on Android for me, come to an end. Though, you can still use their app without their service using an open standard.
 Article posts: https://faircode.eu/faq.html</description>
     </item>
     
     <item>
       <title>Get Rid of Public DNS (nsd4) is not running (port 53). on Mail-in-a-Box</title>
-      <link>https://ionsqr.github.io/post/get-rid-of-public-dns-nsd4-is-not-running/</link>
+      <link>https://ionsqr.github.io/posts/get-rid-of-public-dns-nsd4-is-not-running/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/get-rid-of-public-dns-nsd4-is-not-running/</guid>
+      <guid>https://ionsqr.github.io/posts/get-rid-of-public-dns-nsd4-is-not-running/</guid>
       <description>It&amp;rsquo;s really annoying to see this status checks on Mail-in-a-Box
 Solution:
 sudo sysctl -w net.ipv6.conf.all.disable_ipv6=0  sudo sysctl -w net.ipv6.conf.default.disable_ipv6=0  sudo service nsd start </description>
@@ -31,10 +31,10 @@ sudo sysctl -w net.ipv6.conf.all.disable_ipv6=0  sudo sysctl -w net.ipv6.conf.de
     
     <item>
       <title>Hardening Firefox using Arkenfox user.js</title>
-      <link>https://ionsqr.github.io/post/hardening-firefox-using-arkenfox-user-js/</link>
+      <link>https://ionsqr.github.io/posts/hardening-firefox-using-arkenfox-user-js/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/hardening-firefox-using-arkenfox-user-js/</guid>
+      <guid>https://ionsqr.github.io/posts/hardening-firefox-using-arkenfox-user-js/</guid>
       <description>You can read the Arkenfox official wiki based on your threat model and create the user-overrides.js file / download or copy here user-overrides.js
 Download the official release from here or use git clone from https://github.com/arkenfox/user.js
 Locate your Mozilla Firefox profile, and open terminal
@@ -44,58 +44,58 @@ On your terminal inside your Firefox profile folder.</description>
     
     <item>
       <title>Using DNF on Fedora Sliverblue</title>
-      <link>https://ionsqr.github.io/post/using-dnf-on-fedora-sliverblue/</link>
+      <link>https://ionsqr.github.io/posts/using-dnf-on-fedora-sliverblue/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/using-dnf-on-fedora-sliverblue/</guid>
+      <guid>https://ionsqr.github.io/posts/using-dnf-on-fedora-sliverblue/</guid>
       <description>Steps to use DNF command like a regular Fedora on Silverblue using aliases
 cat &amp;gt;&amp;gt; ~/.bashrc &amp;lt;&amp;lt; EOF alias sudo=&amp;#34;sudo &amp;#34; alias dnf=&amp;#34;bash -c &amp;#39;#skip_sudo&amp;#39;; toolbox -y create 2&amp;gt;/dev/null; toolbox run sudo dnf&amp;#34; EOF </description>
     </item>
     
     <item>
       <title>CTemplar is shutting down</title>
-      <link>https://ionsqr.github.io/post/ctemplar-is-shutting-down/</link>
+      <link>https://ionsqr.github.io/posts/ctemplar-is-shutting-down/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/ctemplar-is-shutting-down/</guid>
+      <guid>https://ionsqr.github.io/posts/ctemplar-is-shutting-down/</guid>
       <description>Been months after requesting a free account on CTemplar for my backup mail, the Icelandic email provider has officially been shutting down effectively on 26th May 2022.
 Article Posts: https://ctemplar.com/ctemplar-is-shutting-down/</description>
     </item>
     
     <item>
       <title>A Good Move from MacOS</title>
-      <link>https://ionsqr.github.io/post/a-good-move-from-macos/</link>
+      <link>https://ionsqr.github.io/posts/a-good-move-from-macos/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/a-good-move-from-macos/</guid>
+      <guid>https://ionsqr.github.io/posts/a-good-move-from-macos/</guid>
       <description>This thing is available under their website for each app, a good thing to be added in terms of privacy concern whether the app is collecting your data or not. And yes, it&amp;rsquo;s on their website called App privacy. Here&amp;rsquo;s a bit on their website
  Data collection The purpose of the label is to help your customers understand what data is collected from your app and how it is used.</description>
     </item>
     
     <item>
       <title>Free Up RAM on Debian or Ubuntu</title>
-      <link>https://ionsqr.github.io/post/free-up-ram-on-debian-ubuntu/</link>
+      <link>https://ionsqr.github.io/posts/free-up-ram-on-debian-ubuntu/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/free-up-ram-on-debian-ubuntu/</guid>
+      <guid>https://ionsqr.github.io/posts/free-up-ram-on-debian-ubuntu/</guid>
       <description>free -h &amp;amp;&amp;amp; sudo sysctl -w vm.drop_caches=3 &amp;amp;&amp;amp; sudo sync &amp;amp;&amp;amp; echo 3 | sudo tee /proc/sys/vm/drop_caches &amp;amp;&amp;amp; free -h </description>
     </item>
     
     <item>
       <title>Why Self-hosting</title>
-      <link>https://ionsqr.github.io/post/why-self-hosting/</link>
+      <link>https://ionsqr.github.io/posts/why-self-hosting/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/why-self-hosting/</guid>
+      <guid>https://ionsqr.github.io/posts/why-self-hosting/</guid>
       <description>The concept in which we host our own applications, data, and more. Taking away the “unknown” factor in how our data is managed and stored, this provides those with the willingness to learn and the mind to do so to take control of our data without losing the functionality of services we otherwise use frequently. That makes us much aware about our own privacy.</description>
     </item>
     
     <item>
       <title>Writefreely with Docker Compose</title>
-      <link>https://ionsqr.github.io/post/writefreely-with-docker-compose/</link>
+      <link>https://ionsqr.github.io/posts/writefreely-with-docker-compose/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ionsqr.github.io/post/writefreely-with-docker-compose/</guid>
+      <guid>https://ionsqr.github.io/posts/writefreely-with-docker-compose/</guid>
       <description>Download the stable release as mentioned on Writefreely using wget command
 sudo wget https://github.com/writefreely/writefreely/releases/download/v0.13.1/writefreely_0.13.1_linux_amd64.tar.gz sudo tar -zxvf writefreely_0.13.1_linux_amd64.tar.gz Generate config.ini before generating keys
 cd writefreely sudo ./writefreely --config My current setup is, you can configure as you like

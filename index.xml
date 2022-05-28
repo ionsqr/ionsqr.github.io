@@ -113,7 +113,8 @@ cd keys sudo chmod 777 *keys.file* Create a docker-compose.</description>
       <description>
 Written by Ion Orion Sugiarmawan 
 A dedicated personal note based on my journey for my own reminder. It might not be useful for you nor your setup environment. It might be outdated when you are reading this. The content on this site is licensed under a Creative Commons Attribution 4.0 International license.
-Contact:  Signal: +1(234)332110 Mail: ion@ori.onl Matrix: ion:ori.onl  </description>
+Contact:  Signal: +1(234)332110 Mail: ion@ori.onl PGP Public Key (fingerprint: a2773d867de12a1c04d99607736fab2fb66cdb63 )
+ Matrix: ion:ori.onl  </description>
     </item>
     
   </channel>

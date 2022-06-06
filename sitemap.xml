@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ionsqr.github.io/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/posts/nextcloud/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/tags/notes/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/posts/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ionsqr.github.io/tags/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ionsqr.github.io/posts/fairemail-announcement-to-stop-developing/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
@@ -11,19 +23,10 @@
     <loc>https://ionsqr.github.io/tags/news/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ionsqr.github.io/posts/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/tags/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ionsqr.github.io/posts/get-rid-of-public-dns-nsd4-is-not-running/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ionsqr.github.io/posts/hardening-firefox-using-arkenfox-user-js/</loc>
-    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ionsqr.github.io/tags/notes/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ionsqr.github.io/posts/using-dnf-on-fedora-sliverblue/</loc>

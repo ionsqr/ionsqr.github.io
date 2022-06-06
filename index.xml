@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Anas ibn Malik reported: The Prophet ﷺ said, “Seeking knowledge is an obligation upon every Muslim.”</copyright>
-    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ionsqr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ionsqr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build Nextcloud with Docker, Docker-compose</title>
+      <link>https://ionsqr.github.io/posts/nextcloud/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ionsqr.github.io/posts/nextcloud/</guid>
+      <description>Don&amp;rsquo;t forget to add db.env version:&amp;#39;3&amp;#39;services:db:image:mariadbcommand:--transaction-isolation=READ-COMMITTED --binlog-format=ROWrestart:alwaysvolumes:- db:/var/lib/mysqlenvironment:- MYSQL_ROOT_PASSWORD=*&amp;#34;yourpassword&amp;#34;*env_file:- db.envredis:image:redisrestart:alwaysapp:build:./apprestart:alwaysports:- 7772:80volumes:- nextcloud:/var/www/htmlenvironment:- MYSQL_HOST=dbenv_file:- db.envdepends_on:- db- rediscron:build:./apprestart:alwaysvolumes:- nextcloud:/var/www/htmlentrypoint:/cron.shdepends_on:- db- redisvolumes:db:nextcloud:</description>
+    </item>
+    
     <item>
       <title>FairEmail announcement to Stop Developing</title>
       <link>https://ionsqr.github.io/posts/fairemail-announcement-to-stop-developing/</link>
@@ -15,7 +24,9 @@
       
       <guid>https://ionsqr.github.io/posts/fairemail-announcement-to-stop-developing/</guid>
       <description>Qadarallah, I&amp;rsquo;m really sorry to FairEmail, because they have stopped providing their services due to Google falsely flagged FairEmail as spyware without a reasonable opportunity to appeal, as stated on its website. The mail client has been irreplaceable on Android for me, come to an end. Though, you can still use their app without their service using an open standard.
-Article posts: https://faircode.eu/faq.html</description>
+#Update on his website #
+ Update:
+May 30, 2022</description>
     </item>
     
     <item>
